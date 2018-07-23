@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SelectQAForMe": {
+      "commandName": "Project",
+      "commandLineArgs": "-f  \"c:\\Users\\sridh\\OneDrive\\Documents\\Excel\\Test Notes by chapter.xlsx\" -t \"Questions\" -o \"C:\\Users\\sridh\\AppData\\Local\\Temp\\Outfile.txt\""
+    }
+  }
+}
