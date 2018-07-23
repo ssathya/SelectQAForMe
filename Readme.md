@@ -1,0 +1,2 @@
+About this tool:
+While preparing for AWS Certification I wanted to do some sample tests before appearing for the exam. I did not find any free online exams that will help me prepare for the exams and paying $20/- for each practice test was expensive. So I created an s/s with questions and answers that I lifted from “AWS Certified Solutions Architect Official Study Guide”.  My excel files tab “Questions” looks as follows:
